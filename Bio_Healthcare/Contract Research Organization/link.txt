@@ -1,0 +1,8 @@
+Clinical Plan → Schema → Trial
+
+🔄 Relationship (Very Important)
+Clinical Plan
+      ↓
+Schema (Protocol Structure)
+      ↓
+Trial (Execution)
