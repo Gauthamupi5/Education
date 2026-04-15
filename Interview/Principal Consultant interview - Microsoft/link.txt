@@ -1,0 +1,35 @@
+Agentic RAG system end-to-end (prod grade),
+https://github.com/jamwithai/production-agentic-rag-course
+C:\Users\Priya\Desktop\Gautham\Education\Jd
+
+
+Responsibilities
+AI-First Delivery Leadership
+Embed AI-first principles intodelivery workflows, leveragingautomation and intelligentorchestration where applicable.
+Own the Architecture and driveend-to-end delivery of complexprojects, ensuring solutions arescalable, robust, and aligned withclient business outcomes.
+Drive engineering excellencethrough reusable components,accelerators, and scalablearchitecture.
+Oversee technical executionacross multiple projects, ensuringadherence to best practices,quality standards, and compliancerequirements.
+Collaborate with clients andinternal stakeholders to definestrategies, delivery plans,milestones, and risk mitigationapproaches.
+Act as a technical point of contactfor clients, translating businessrequirements into scalabletechnical solutions.
+Ensure delivery models areoptimized for modern, AI-nativeexecution, including integrationof automation and intelligentprocesses.
+Ability to step into at‑riskprojects, quickly assess issues,and establish a credible path torecovery or exit.
+
+AI‑Driven Application Development
+Build AI‑driven, cloud‑nativeapplications with intelligenceembedded into coreworkflows.
+Hands‑on use of GitHubCopilot across the SDLC,enabling solutioning,development, CI/CD, andproduction readiness.
+Lead a Copilot‑assistedengineering culture, drivingAI pair‑programming andhigh‑velocity delivery atscale.
+Modernize large applicationestates usingCopilot‑assisted codecomprehension, refactoring,and cloud‑native migration.
+Coach teams and customerson safe, enterprise‑gradeCopilot usage, promptstrategies, and adoptionpatterns.
+Apply Responsible AIprinciples, embeddingsecurity, privacy, governance,and compliance into deliveryworkflows.
+
+AI‑Enabled Application Development
+Deliver production‑grade AIsolutions using AzureOpenAI, Azure AI Services,Azure AI Foundry, andcustom ML, including RAGarchitectures with Azure AISearch and enterprise datagrounding.
+Deep expertise in LLMintegration—promptengineering, context andgrounding strategies—forcopilots, conversational
+applications, and intelligentbusiness workflows.
+Proven design of agentic AIsystems (single andmulti‑agent), withorchestration, tools,memory,human‑in‑the‑loop, andenterprise‑ready operationsincluding observability,governance, andcost/performanceoptimization
+
+
+Build (Engineering) - IDC
+MCAPS (Customer & Partner Solutions)
+MSR Research
+Support / Consulting (GCID, Services)
