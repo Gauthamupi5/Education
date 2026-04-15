@@ -1,1 +1,30 @@
-System thinker + decision maker + business owner mindset
+Real Example Scenario (Putting it all together)
+
+Let’s simulate his work:
+
+Problem:
+
+“Indriya stores not converting enough walk-ins”
+
+What he does:
+Check dashboard (Power BI/Tableau)
+Identify:
+High footfall but low conversion
+Deep dive:
+Store layout issue?
+Sales training issue?
+Action:
+Change VM design
+Train staff
+Launch targeted campaign
+
+👉 This is consulting + execution combined
+
+⚡ Key Insight (VERY IMPORTANT)
+
+He is NOT:
+❌ Tool user
+❌ Campaign executor
+
+He is:
+✅ System thinker + decision maker + business owner mindset
