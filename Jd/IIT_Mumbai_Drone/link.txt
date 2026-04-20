@@ -1,0 +1,19 @@
+https://www.geos.iitb.ac.in/index.php/dr/
+Dr. Desikan Ramakrishnan
+
+Industrial Research And Consultancy Centre
+
+Un-manned airborne systems (UAS) for remote sensing and photogrammetry
+https://rnd.iitb.ac.in/node/1274
+
+UAS are known under various different names and acronyms, such as ‘Unmanned Aerial Vehicle’ (UAV), ‘aerial robot’ or simply ‘drone’. An UAS typically comprises of an unmanned aircraft (UA), a ground control station (GCS) and a communications data link for the UA command and control from the GCS, host of sensors and a data acquisition device.
+
+The Remote Sensing Laboratory at the Department of Earth Sciences has developed three such UAS namely, ARTI (Airborne Radiometric Thermal Imager), ASVINI (Airborne Spectrometer in the Visible and Near Infrared) and VIPA (Visible Imager for Photogrammetric Applications) for various applications such as search and rescue, surveying, mineral exploration, precision agriculture, security, etc. Typical application potentials of each one of the UAS are detailed below:
+
+ARTI: Comprise a broad band (8 - 14 μm), 640 by 520 resolution, 30 Hz radiometric camera mounted on a quadcopter system. This system has application potential in security, solar panel and powerline thermography, thermal conductivity estimation of natural and man-made surfaces, natural gas pipeline leakages and landmine detection.
+
+ASVINI : The visible-near infrared imaging spectrometer with very narrow spectral bandwidth (2 nm), 1040 pixels line scanner mounted on a octocopter system can provide excellent solution in precision agriculture, forest species identification, mineral exploration and camouflage related studies.
+
+VIPA: High resolution visible imager mounted on an Octocopter system with Differential Global Position System (DGPS) is the ideal tool for survey, 3D modelling, contouring, excavation volume estimation, rail / road alignment and slope stability related studies.
+
+Prof. D Ramakrishnan
