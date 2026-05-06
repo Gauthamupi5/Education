@@ -1,0 +1,1 @@
+“.NET + Claude skill gives you architecture thinking, but you’ll struggle where Java’s runtime and Spring’s internal behavior become visible.”

@@ -1,0 +1,84 @@
+If you **don’t ask for a document or code**, the skill will simply return a **structured, detailed explanation in chat**.
+
+---
+
+# 🧠 Default Output (no special request)
+
+You’ll get something like:
+
+### ✔ Well-structured text response
+
+* Clear sections (Problem, Architecture, Data Flow, etc.)
+* Step-by-step reasoning
+* Trade-offs (CAP, consistency, scaling)
+
+---
+
+## Example shape of output
+
+```text
+1. Problem Definition
+2. CAP Decision
+3. High-Level Architecture
+4. Service Design
+5. Data Model
+6. Request Flow
+7. Failure Handling
+8. Security
+9. Performance
+10. Summary
+```
+
+---
+
+# ⚙️ Key characteristics
+
+👉 It will be:
+
+* Structured ✔
+* Deep ✔
+* Architecture-focused ✔
+* Real-world aligned ✔
+
+👉 But:
+
+* ❌ Not a PDF
+* ❌ Not a downloadable file
+* ❌ Not formatted as a formal document
+* ❌ Not code (unless asked)
+
+---
+
+# 🧠 How to think about it
+
+Default behavior =
+👉 **“Architect explaining design on a whiteboard”**
+
+Not:
+
+👉 “Delivering a formal document or codebase”
+
+---
+
+# 🔥 One-line answer
+
+👉
+**“Without asking explicitly, the output will be a detailed, structured explanation in chat—not a document or code.”**
+
+---
+
+# 🚀 Pro tip
+
+If you want to upgrade output anytime, just add:
+
+* “format as document”
+* “generate PDF”
+* “include code”
+
+---
+
+If you want, I can show:
+👉 Same query → 3 outputs (chat vs document vs code) side-by-side
+
+Just say:
+**“compare formats”**
